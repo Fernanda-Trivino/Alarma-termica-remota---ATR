@@ -45,3 +45,6 @@ G.A. Angulo S, M.A. Cubillos H, J.M. Marín M, J.S. Monje M, J.S. Quecan H, W.A.
 |La población no cuenta con el tiempo y/o conocimiento necesarios para el cuidado de sus plantas. Con este sistema, se les proporcionará un apoyo en estos dos aspectos.|En el tiempo previsto, integrar todas las partes del proyecto plantea un reto al grupo.|
 ||Limitación económica en el desarrollo del prototipo.|
 
+## Diseños
+### Diseños dehardware
+## Codigos fuentes
