@@ -50,4 +50,6 @@ G.A. Angulo S, M.A. Cubillos H, J.M. Marín M, J.S. Monje M, J.S. Quecan H, W.A.
 ![alt text](https://github.com/Fernanda-Trivino/Alarma-termica-remota---ATR/blob/master/diagrama1.png)
 
 ## Diseños Prototipo
-![alt text](https://github.com/Fernanda-Trivino/Alarma-termica-remota---ATR/blob/master/prototipo1.png)
+![alt text](https://github.com/Fernanda-Trivino/Alarma-termica-remota---ATR/blob/master/prototipo1.jpg)
+
+## Referencias 
